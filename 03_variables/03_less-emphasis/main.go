@@ -11,6 +11,10 @@ func main() {
 	var a, b, c int
 	a = 1
 
+	// initialize many at once
+	var d, e, f int = 1, 2, 3
+
 	fmt.Println(message)
 	fmt.Println(a, b, c)
+	fmt.Println(d, e, f)
 }
