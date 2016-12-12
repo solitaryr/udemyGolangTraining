@@ -1,3 +1,6 @@
+/*
+Print all of the even numbers between 0 and 100.
+*/
 package main
 
 import "fmt"
